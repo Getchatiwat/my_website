@@ -1,6 +1,6 @@
-baseURL: http://example.org/
+baseURL: https://get-portfolio.netlify.app/
 languageCode: en-us
-title: Forty
+title: Portfolio website for Get Phlaingam
 theme: forty
 googleAnalytics: ''
 disqusShortname: ''
@@ -10,22 +10,22 @@ params:
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Forty
+    title: Hi, my name is Get
   blog: {}
   contact:
-    address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
+    address: 
+      - city: London, UK NW16XY
+        country: UK
+        street: Flat 49, Rossmore Court, Park Road
         title: Address
     buttonClear: Clear
     buttonSend: Send message
     email:
-      - email: example@domain.com
+      - email: gphlaingam.mba2024@london.edu
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: (074) 903-86591 x1234
         title: Phone
   custom_css: []
   custom_js: []
@@ -35,7 +35,7 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: Rags and Lace
     enable: yes
     quicklinks:
       - alt: HTML5 UP
@@ -58,7 +58,7 @@ params:
         label: LinkedIn
         url: https://www.linkedin.com
   image: ''
-  name: Your name
+  name: Get
   navigation:
     button1:
       - name: Get Started
@@ -81,10 +81,10 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: pic01.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
+      - image: lbs.jpg
+        subtitle: Navy
+        title: Signature Lace
+        url: blogs/risk_return
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
         title: Tempus
