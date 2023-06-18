@@ -82,9 +82,9 @@ params:
     enable: yes
     showcase:
       - image: get.jpeg
-        subtitle: my bio graphy and professioonal experience
+        subtitle: my biography and professional experience
         title: Personal Info
-        url: blogs/risk_return
+        url: blogs/bio
       - image: data manipulation.jpeg
         subtitle: using dplyr package
         title: Work - Data Manipulation
