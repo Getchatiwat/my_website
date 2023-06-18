@@ -88,7 +88,7 @@ params:
       - image: data manipulation.jpeg
         subtitle: using dplyr package
         title: Work 1 - Data Manipulation
-        url: blogs/tempus
+        url: blogs/flight_oper
       - image: data visualisation.png
         subtitle: using ggplot package
         title: Work 2 - Data Visualisation
@@ -98,7 +98,7 @@ params:
         title: Work 3 - Databases, web scraping, and a basic Shiny app
         url: blogs/ipsum
       - image: machine learning.jpeg
-        subtitle: Ipsum Dolor Sit Amet
+        subtitle: Train and test the machine
         title: Work 4 - Machine Learning
         url: blogs/ipsum
       - image: group project.jpeg
