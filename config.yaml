@@ -92,7 +92,7 @@ params:
       - image: data visualisation.png
         subtitle: using ggplot package
         title: Work 2 - Data Visualisation
-        url: blogs/magna
+        url: blogs/mass_shooting_and_credit_fraud
       - image: database.jpeg
         subtitle: using DBI
         title: Work 3 - Databases, web scraping, and a basic Shiny app
