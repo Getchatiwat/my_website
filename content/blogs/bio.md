@@ -5,7 +5,7 @@ categories:
 date: "2021-09-30"
 description: Get's Biography # the title that will show up once someone gets to this page
 draft: false
-image: get2.png # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
+image: get.png # save picture in \static\img\blogs. Acceptable formats= jpg, jpeg, or png . Your iPhone pics wont work
 
 keywords: ""
 slug: bio # slug is the shorthand URL address... no spaces plz
