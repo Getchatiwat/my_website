@@ -7,10 +7,10 @@ disqusShortname: ''
 params:
   banner:
     buttonText: Get Started
-    subtitle: |-
+#    subtitle: |-
       #A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       #AND RELEASED UNDER THE CREATIVE COMMONS.
-    title: Hi, my name is Get
+    title: Hi, my name is Get Phlaingam
   blog: {}
   contact:
     address: 
@@ -35,12 +35,12 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Rags and Lace
-    enable: yes
-    quicklinks:
-      - alt: HTML5 UP
-        text: 'Design: '
-        url: https://www.html5up.net
+#    copyright:
+#    enable: yes
+#    quicklinks:
+#      - alt: HTML5 UP
+#        text: 'Design: '
+#        url: https://www.html5up.net
     social:
       #- icon: fa-twitter
       #  label: Twitter
@@ -71,10 +71,10 @@ params:
         url: '#'
       - name: Blogs
         url: blogs
-      - name: Generic Blog
-        url: blogs/ipsum
-      - name: Elements
-        url: elements.html
+#      - name: Generic Blog
+#        url: blogs/ipsum
+#      - name: Elements
+#        url: elements.html
     menu: Menu
     subtitle: By HTML5 Up
     title: Forty
@@ -82,28 +82,28 @@ params:
     enable: yes
     showcase:
       - image: lbs.jpg
-        subtitle: Navy
-        title: Aliqium
+        subtitle: my bio graphy and professioonal experience
+        title: Personal Info
         url: blogs/risk_return
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
+      - image: data manipulation.jpeg
+        subtitle: using dplyr package
+        title: Work 1 - Data Manipulation
         url: blogs/tempus
-      - image: pic03.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+      - image: data visualisation.png
+        subtitle: using ggplot package
+        title: Work 2 - Data Visualisation
         url: blogs/magna
-      - image: pic04.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
+      - image: database.jpeg
+        subtitle: using DBI
+        title: Work 3 - Databases, web scraping, and a basic Shiny app
         url: blogs/ipsum
-      - image: pic05.jpg
+      - image: machine learning.jpeg
         subtitle: Ipsum Dolor Sit Amet
-        title: Consequat
+        title: Work 4 - Machine Learning
         url: blogs/ipsum
-      - image: pic06.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Etiam
+      - image: group project.jpeg
+        subtitle: put it all togther
+        title: Group Project
         url: blogs/ipsum
   two:
     buttonText: Get Started
