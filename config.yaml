@@ -87,32 +87,32 @@ params:
         url: blogs/risk_return
       - image: data manipulation.jpeg
         subtitle: using dplyr package
-        title: Work 1 - Data Manipulation
+        title: Work - Data Manipulation
         url: blogs/flight_oper
-      - image: data visualisation.png
-        subtitle: using ggplot package
-        title: Work 2 - Data Visualisation
-        url: blogs/magna
-      - image: database.jpeg
-        subtitle: using DBI
-        title: Work 3 - Databases, web scraping, and a basic Shiny app
-        url: blogs/ipsum
-      - image: machine learning.jpeg
-        subtitle: Train and test the machine
-        title: Work 4 - Machine Learning
-        url: blogs/ipsum
-      - image: group project.jpeg
-        subtitle: put it all togther
-        title: Group Project
-        url: blogs/ipsum
-  two:
-    buttonText: Get Started
-    enable: yes
-    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
-      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
-      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
-      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
-      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
-      amet pharetra et feugiat tempus."
-    title: Massa libero
-    url: blogs
+#      - image: data visualisation.png
+#        subtitle: using ggplot package
+#        title: Work 2 - Data Visualisation
+#        url: blogs/magna
+#      - image: database.jpeg
+#        subtitle: using DBI
+#        title: Work 3 - Databases, web scraping, and a basic Shiny app
+#        url: blogs/ipsum
+#      - image: machine learning.jpeg
+#        subtitle: Train and test the machine
+#        title: Work 4 - Machine Learning
+#        url: blogs/ipsum
+#      - image: group project.jpeg
+#        subtitle: put it all togther
+#        title: Group Project
+#        url: blogs/ipsum
+#  two:
+#    buttonText: Get Started
+#    enable: yes
+#    subtitle: "Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
+#      \n    Mauris aliquet magna magna sed nunc rhoncus pharetra. \n    Pellentesque
+#      condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia
+#      pellentesque lorem ipsum dolor. \n    Nullam et orci eu lorem consequat tincidunt.
+#      Vivamus et sagittis libero.\n    Mauris aliquet magna magna sed nunc rhoncus
+#      amet pharetra et feugiat tempus."
+#    title: Massa libero
+#    url: blogs
